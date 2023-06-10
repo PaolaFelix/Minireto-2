@@ -1,8 +1,5 @@
 # Minireto-2
 
-¡Claro! Aquí tienes el README actualizado para tu proyecto en GitHub con el formato adecuado:
-
-```markdown
 # Gestión de Personajes de Genshin Impact
 
 Este proyecto es una aplicación web que te permite gestionar los personajes del juego Genshin Impact. Puedes crear nuevos personajes, ver los detalles de los personajes existentes, editar los datos de los personajes y ver una lista completa de los personajes.
