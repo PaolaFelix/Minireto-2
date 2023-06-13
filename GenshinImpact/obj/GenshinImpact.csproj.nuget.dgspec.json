@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gdldadun\\source\\repos\\minireto2\\Minireto-2\\GenshinImpact\\GenshinImpact.csproj": {}
+    "C:\\Users\\gdldadun\\source\\repos\\GenshinImpactDos\\Minireto-2\\GenshinImpact\\GenshinImpact.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gdldadun\\source\\repos\\minireto2\\Minireto-2\\GenshinImpact\\GenshinImpact.csproj": {
+    "C:\\Users\\gdldadun\\source\\repos\\GenshinImpactDos\\Minireto-2\\GenshinImpact\\GenshinImpact.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gdldadun\\source\\repos\\minireto2\\Minireto-2\\GenshinImpact\\GenshinImpact.csproj",
+        "projectUniqueName": "C:\\Users\\gdldadun\\source\\repos\\GenshinImpactDos\\Minireto-2\\GenshinImpact\\GenshinImpact.csproj",
         "projectName": "GenshinImpact",
-        "projectPath": "C:\\Users\\gdldadun\\source\\repos\\minireto2\\Minireto-2\\GenshinImpact\\GenshinImpact.csproj",
+        "projectPath": "C:\\Users\\gdldadun\\source\\repos\\GenshinImpactDos\\Minireto-2\\GenshinImpact\\GenshinImpact.csproj",
         "packagesPath": "C:\\Users\\gdldadun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gdldadun\\source\\repos\\minireto2\\Minireto-2\\GenshinImpact\\obj\\",
+        "outputPath": "C:\\Users\\gdldadun\\source\\repos\\GenshinImpactDos\\Minireto-2\\GenshinImpact\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -26,7 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,17 +47,21 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.Extensions.Logging.AzureAppServices": {
+              "target": "Package",
+              "version": "[7.0.7, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[7.0.6, )"
+              "version": "[7.0.7, )"
             }
           },
           "imports": [
@@ -79,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
